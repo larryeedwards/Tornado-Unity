@@ -1,0 +1,34 @@
+<SCRIPT_ID:0>
+Find 5 Tornado Machine
+batteries within
+4 minutes.
+Good luck, Toki!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Amazing, Toki!
+You found all
+of the batteries!
+Now we can use
+the Tornado Machines.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+You found a
+Tornado Machine battery!
+You need 4 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+You found a
+Tornado Machine battery!
+You need 3 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+You found a
+Tornado Machine battery!
+You need 2 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+You found a
+Tornado Machine battery!
+You need 1 more!
+<SCRIPT_ID_END:>
+<FILE_END:>

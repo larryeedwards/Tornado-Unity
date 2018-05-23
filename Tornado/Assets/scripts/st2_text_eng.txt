@@ -1,0 +1,31 @@
+<SCRIPT_ID:0>
+Find Deva
+within 4 minutes!
+Good luck, Toki!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Find Deva
+within 4 minutes!
+Good luck, Gina!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Hey! Was that Deva
+that just flew by?
+Good job, Toki!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Hey! Was that Deva
+that just flew by?
+Amazing, Gina!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+Oh! I'm detecting
+Deva's signal
+near here!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Ah! I'm detecting
+Deva's signal
+near here!
+<SCRIPT_ID_END:>
+<FILE_END:>

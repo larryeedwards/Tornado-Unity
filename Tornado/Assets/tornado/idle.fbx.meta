@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 04b1d8d4250913849a21ec77de5d20da
+timeCreated: 1522190734
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 001
+    100002: 001 1
+    100004: 001_end
+    100006: 1
+    100008: 1 1
+    100010: 1_end
+    100012: 2
+    100014: 2 1
+    100016: 2_end
+    100018: 3
+    100020: 3 1
+    100022: 3_end
+    100024: 4
+    100026: 4 1
+    100028: 4_end
+    100030: A1
+    100032: A1 1
+    100034: A1_end
+    100036: A2
+    100038: A2 1
+    100040: A2_end
+    100042: Armature
+    100044: Bone01
+    100046: Bone02
+    100048: Bone03
+    100050: Bone04
+    100052: Bone05
+    100054: Bone06
+    100056: Bone06_end
+    100058: Camera
+    100060: e01
+    100062: e01 1
+    100064: e01_end
+    100066: //RootNode
+    100068: Lamp
+    100070: Object06
+    100072: Object06 1
+    100074: Object06_end
+    100076: Object09
+    100078: Object09 1
+    100080: Object09_end
+    400000: 001
+    400002: 001 1
+    400004: 001_end
+    400006: 1
+    400008: 1 1
+    400010: 1_end
+    400012: 2
+    400014: 2 1
+    400016: 2_end
+    400018: 3
+    400020: 3 1
+    400022: 3_end
+    400024: 4
+    400026: 4 1
+    400028: 4_end
+    400030: A1
+    400032: A1 1
+    400034: A1_end
+    400036: A2
+    400038: A2 1
+    400040: A2_end
+    400042: Armature
+    400044: Bone01
+    400046: Bone02
+    400048: Bone03
+    400050: Bone04
+    400052: Bone05
+    400054: Bone06
+    400056: Bone06_end
+    400058: Camera
+    400060: e01
+    400062: e01 1
+    400064: e01_end
+    400066: //RootNode
+    400068: Lamp
+    400070: Object06
+    400072: Object06 1
+    400074: Object06_end
+    400076: Object09
+    400078: Object09 1
+    400080: Object09_end
+    2000000: Camera
+    2100000: Material__0
+    4300000: Object06
+    4300002: Object09
+    4300004: e01
+    4300006: 1
+    4300008: A2
+    4300010: A1
+    4300012: 3
+    4300014: 2
+    4300016: 4
+    4300018: 001
+    7400000: t_idle
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: 001
+    13700002: 1
+    13700004: 2
+    13700006: 3
+    13700008: 4
+    13700010: A1
+    13700012: A2
+    13700014: e01
+    13700016: Object06
+    13700018: Object09
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__0
+    second: {fileID: 2100000, guid: e48a15832527da0449837f59de77cc49, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: t_idle
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

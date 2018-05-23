@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 8566730e342a9a24aa7e120e6435049a
+timeCreated: 1526774992
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 001
+    100002: 001 1
+    100004: 05
+    100006: 05 1
+    100008: 06
+    100010: 06 1
+    100012: 07
+    100014: 07 1
+    100016: 08
+    100018: 08 1
+    100020: 09
+    100022: 09 1
+    100024: 1
+    100026: 1 1
+    100028: 2
+    100030: 2 1
+    100032: 3
+    100034: 3 1
+    100036: 4
+    100038: 4 1
+    100040: A03
+    100042: A03 1
+    100044: A04
+    100046: A04 1
+    100048: A1
+    100050: A1 1
+    100052: A2
+    100054: A2 1
+    100056: Bone01
+    100058: Bone02
+    100060: Bone03
+    100062: Bone04
+    100064: Bone05
+    100066: Bone06
+    100068: Bone07
+    100070: Bone08
+    100072: Bone09
+    100074: Bone10
+    100076: Bone11
+    100078: Bone12
+    100080: e01
+    100082: e01 1
+    100084: e02
+    100086: e02 1
+    100088: //RootNode
+    100090: Object01
+    100092: Object01 1
+    100094: Object02
+    100096: Object02 1
+    100098: Object06
+    100100: Object06 1
+    100102: Object09
+    100104: Object09 1
+    100106: smoke01
+    100108: smoke02
+    100110: smoke_07
+    100112: smoke_07 1
+    100114: smoke_08
+    100116: smoke_08 1
+    100118: smoke_09
+    100120: smoke_09 1
+    100122: smoke_10
+    100124: smoke_12
+    100126: smoke_12 1
+    100128: smoke_13
+    100130: smoke_13 1
+    100132: smoke_14
+    100134: smoke_14 1
+    100136: smoke_15
+    100138: smoke_15 1
+    100140: smoke_16
+    100142: smoke_16 1
+    100144: world_root
+    400000: 001
+    400002: 001 1
+    400004: 05
+    400006: 05 1
+    400008: 06
+    400010: 06 1
+    400012: 07
+    400014: 07 1
+    400016: 08
+    400018: 08 1
+    400020: 09
+    400022: 09 1
+    400024: 1
+    400026: 1 1
+    400028: 2
+    400030: 2 1
+    400032: 3
+    400034: 3 1
+    400036: 4
+    400038: 4 1
+    400040: A03
+    400042: A03 1
+    400044: A04
+    400046: A04 1
+    400048: A1
+    400050: A1 1
+    400052: A2
+    400054: A2 1
+    400056: Bone01
+    400058: Bone02
+    400060: Bone03
+    400062: Bone04
+    400064: Bone05
+    400066: Bone06
+    400068: Bone07
+    400070: Bone08
+    400072: Bone09
+    400074: Bone10
+    400076: Bone11
+    400078: Bone12
+    400080: e01
+    400082: e01 1
+    400084: e02
+    400086: e02 1
+    400088: //RootNode
+    400090: Object01
+    400092: Object01 1
+    400094: Object02
+    400096: Object02 1
+    400098: Object06
+    400100: Object06 1
+    400102: Object09
+    400104: Object09 1
+    400106: smoke01
+    400108: smoke02
+    400110: smoke_07
+    400112: smoke_07 1
+    400114: smoke_08
+    400116: smoke_08 1
+    400118: smoke_09
+    400120: smoke_09 1
+    400122: smoke_10
+    400124: smoke_12
+    400126: smoke_12 1
+    400128: smoke_13
+    400130: smoke_13 1
+    400132: smoke_14
+    400134: smoke_14 1
+    400136: smoke_15
+    400138: smoke_15 1
+    400140: smoke_16
+    400142: smoke_16 1
+    400144: world_root
+    2100000: 14___Default_9
+    2100002: 14___Default_7
+    2100004: 14___Default_3
+    2100006: 14___Default_4
+    2100008: 14___Default_5
+    2100010: 14___Default_6
+    2100012: 14___Default
+    2100014: 14___Default_1
+    2100016: 14___Default_2
+    2100018: 14___Default_8
+    2100020: 07___Default
+    2100022: 16___Default
+    4300000: 001
+    4300002: 4
+    4300004: 2
+    4300006: 3
+    4300008: A1
+    4300010: A2
+    4300012: 1
+    4300014: e01
+    4300016: Object09
+    4300018: Object06
+    4300020: smoke_12
+    4300022: smoke_13
+    4300024: smoke_14
+    4300026: smoke_15
+    4300028: smoke_16
+    4300030: 09
+    4300032: 08
+    4300034: 06
+    4300036: 07
+    4300038: A03
+    4300040: A04
+    4300042: 05
+    4300044: e02
+    4300046: Object01
+    4300048: Object02
+    4300050: smoke_07
+    4300052: smoke_08
+    4300054: smoke_09
+    7400000: anim0
+    9500000: //RootNode
+    13700000: 001
+    13700002: 05
+    13700004: 06
+    13700006: 07
+    13700008: 08
+    13700010: 09
+    13700012: 1
+    13700014: 2
+    13700016: 3
+    13700018: 4
+    13700020: A03
+    13700022: A04
+    13700024: A1
+    13700026: A2
+    13700028: e01
+    13700030: e02
+    13700032: Object01
+    13700034: Object02
+    13700036: Object06
+    13700038: Object09
+    13700040: smoke_07
+    13700042: smoke_08
+    13700044: smoke_09
+    13700046: smoke_12
+    13700048: smoke_13
+    13700050: smoke_14
+    13700052: smoke_15
+    13700054: smoke_16
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

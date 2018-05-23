@@ -1,0 +1,261 @@
+<SCRIPT_ID:0>
+Find 8 spaceship
+parts within
+6 minutes!
+Good luck, Toki!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Find 8 spaceship
+parts within
+6 minutes!
+Good luck, Gina!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Find 8 spaceship
+parts within
+6 minutes!
+Good luck, Deva!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Find 8 spaceship
+parts within
+6 minutes!
+Good luck, Paro!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+Find 8 spaceship
+parts within
+6 minutes!
+Good luck, Russell!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Fantastic, Toki!
+Now we can fix
+the spaceship!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:6>
+Great. Gina!
+Now we can fix
+the spaceship!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:7>
+Good job. deva!
+Now we can fix
+the spaceship!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:8>
+Well done. Paro.
+Now we can fix
+the spaceship!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:9>
+Amazing. Russell!
+Now we can fix
+the spaceship!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Whoa!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+All of the parts
+are gone! I'll never
+forgive him for this!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+He's stronger than
+he was before!
+Be careful, Toki!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+Whoa!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Aw... The parts are
+gone. All of them...
+Darn that Kuro!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+He's stronger than
+he was before!
+Be careful, Gina!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+Ouch!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+All of the parts
+are gone...
+Now I'm mad!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+I heard he's strong!
+Careful, Deva!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Whoa!!
+What the--
+What happened?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+It's him again.
+That guy just never
+gives up, does he?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+He's stronger than
+before! Be careful,
+Paro.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Uh-oh!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+All the parts we
+worked so hard to
+find... How dare he!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+He's stronger than before!
+Be careful, Russell!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:25>
+A spaceship part!
+You need 7 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:26>
+A spaceship part!
+You need 7 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:27>
+A spaceship part!
+You need 7 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:28>
+A spaceship part!
+You need 7 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:29>
+A spaceship part!
+You need 7 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:30>
+A spaceship part!
+You need 6 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:31>
+A spaceship part!
+You need 6 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:32>
+A spaceship part!
+You need 6 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:33>
+A spaceship part!
+You need 6 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:34>
+A spaceship part!
+You need 6 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:35>
+A spaceship part!
+You need 5 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:36>
+A spaceship part!
+You need 5 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:37>
+A spaceship part!
+You need 5 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:38>
+A spaceship part!
+You need 5 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:39>
+A spaceship part!
+You need 5 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:40>
+A spaceship part!
+You need 4 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:41>
+A spaceship part!
+You need 4 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:42>
+A spaceship part!
+You need 4 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:43>
+A spaceship part!
+You need 4 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:44>
+A spaceship part!
+You need 4 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:45>
+A spaceship part!
+You need 3 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:46>
+A spaceship part!
+You need 3 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:47>
+A spaceship part!
+You need 3 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:48>
+A spaceship part!
+You need 3 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:49>
+A spaceship part!
+You need 3 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:50>
+A spaceship part!
+You need 2 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:51>
+A spaceship part!
+You need 2 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:52>
+A spaceship part!
+You need 2 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:53>
+A spaceship part!
+You need 2 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:54>
+A spaceship part!
+You need 2 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:55>
+A spaceship part!
+You need 1 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:56>
+A spaceship part!
+You need 1 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:57>
+A spaceship part!
+You need 1 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:58>
+A spaceship part!
+You need 1 more!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:59>
+A spaceship part!
+You need 1 more!
+<SCRIPT_ID_END:>
+<FILE_END:>

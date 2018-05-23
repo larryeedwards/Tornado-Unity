@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <created>2018-03-29T22:41:46Z</created>
+    <modified>2018-03-29T22:41:46Z</modified>
+  </asset>
+  <library_images>
+    <image id="image-T01water">
+      <init_from>T01water.png</init_from>
+    </image>
+  </library_images>
+  <library_materials>
+    <material id="material0" name="Material__27">
+      <instance_effect url="#effect0"/>
+    </material>
+  </library_materials>
+  <library_effects>
+    <effect id="effect0" name="Material__27">
+      <profile_COMMON>
+        <newparam sid="Image-surface">
+          <surface type="2D">
+            <init_from>image-T01water</init_from>
+            <format>A8R8G8B8</format>
+          </surface>
+        </newparam>
+        <newparam sid="Image-sampler">
+          <sampler2D>
+            <source>Image-surface</source>
+            <wrap_s>WRAP</wrap_s>
+            <wrap_t>WRAP</wrap_t>
+            <minfilter>NEAREST</minfilter>
+            <magfilter>NEAREST</magfilter>
+            <mipfilter>NEAREST</mipfilter>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <phong>
+            <diffuse>
+              <texture texture="Image-sampler" texcoord="tc"/>
+            </diffuse>
+            <transparent>
+              <texture texture="Image-sampler" texcoord="tc"/>
+            </transparent>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_geometries>
+    <geometry id="geometry0" name="T01water">
+      <mesh>
+        <source id="geometry0-positions">
+          <float_array id="geometry0-positions-array" count="12">819 -35 719 819 -35 -719 -819 -35 719 -819 -35 -719 </float_array>
+          <technique_common>
+            <accessor source="#geometry0-positions-array" count="4" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="geometry0-texcoords">
+          <float_array id="geometry0-texcoords-array" count="8">1 0.060546875 1 0.9394531 0 0.060546875 0 0.9394531 </float_array>
+          <technique_common>
+            <accessor source="#geometry0-texcoords-array" count="4" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="geometry0-vertices">
+          <input semantic="POSITION" source="#geometry0-positions"/>
+          <input semantic="TEXCOORD" source="#geometry0-texcoords"/>
+        </vertices>
+        <triangles material="material0" count="2">
+          <input semantic="VERTEX" source="#geometry0-vertices" offset="0"/>
+          <p>0 1 2 1 3 2 </p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers>
+    <controller id="controller0">
+      <skin source="#geometry0">
+        <source id="controller0-joints">
+          <Name_array id="controller0-joints-array" count="1">joint1 </Name_array>
+          <technique_common>
+            <accessor source="#controller0-joints-array" count="1">
+              <param name="JOINT" type="Name"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="controller0-bind_poses">
+          <float_array id="controller0-bind_poses-array" count="16">1 0 0 0 0 1 0 35 0 0 1 0 0 0 0 1 </float_array>
+          <technique_common>
+            <accessor source="#controller0-bind_poses-array" count="1" stride="16">
+              <param name="TRANSFORM" type="float4x4"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="controller0-weights">
+          <float_array id="controller0-weights-array" count="1">1 </float_array>
+          <technique_common>
+            <accessor source="#controller0-weights-array" count="1">
+              <param name="WEIGHT" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <joints>
+          <input semantic="JOINT" source="#controller0-joints"/>
+          <input semantic="INV_BIND_MATRIX" source="#controller0-bind_poses"/>
+        </joints>
+        <vertex_weights count="4">
+          <input semantic="JOINT" source="#controller0-joints" offset="0"/>
+          <input semantic="WEIGHT" source="#controller0-weights" offset="1"/>
+          <vcount>1 1 1 1 </vcount>
+          <v>0 0 0 0 0 0 0 0 </v>
+        </vertex_weights>
+      </skin>
+    </controller>
+  </library_controllers>
+  <library_visual_scenes>
+    <visual_scene id="scene0" name="ST01water">
+      <node id="joint1" sid="joint1" name="T01water" type="JOINT">
+        <matrix sid="transform">1 0 0 0 0 1 0 -35 0 0 1 0 0 0 0 1</matrix>
+      </node>
+      <node id="node0" name="T01water" type="NODE">
+        <instance_controller url="#controller0">
+          <skeleton>#joint1</skeleton>
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="material0" target="#material0">
+                <bind_vertex_input semantic="tc" input_semantic="TEXCOORD"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_controller>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#scene0"/>
+  </scene>
+</COLLADA>

@@ -1,0 +1,113 @@
+<SCRIPT_ID:0>
+Find Russell within
+5 minutes!
+Good luck, Toki!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Find Russell within
+5 minutes!
+Good luck, Gina!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Find Russell within
+5 minutes!
+Good luck, Deva!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Find Russell within
+5 minutes!
+Good luck, Paro!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+Whoa! It's a gorilla!
+A giant gorilla!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+That's Big Kong,
+the giant gorilla.
+
+Transport him before
+approaching Russell.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Oh my!
+What a big gorilla!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+That's Big Kong,
+the giant gorilla.
+
+Transport him before
+approaching Russell.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Hey, a giant gorilla.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Oh,
+that's Big Kong.
+
+Transport him before
+Russell gets hurt!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Oh dear.
+A giant gorilla...
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+That's Big Kong.
+
+
+If you don't transport
+him, Russell might
+get hurt.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:12>
+Hey!
+What just flew by?
+
+You found Russell!
+Good job, Toki!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:13>
+Hey!
+What just flew by?
+
+It's Russell!
+Amazing, Gina!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:14>
+Hey!
+What just flew by?
+
+It's Russell!
+Good job, Deva!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:15>
+Hey!
+What just flew by?
+
+It's Russell!
+Wonderful, Paro!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:16>
+Oh! I'm detecting
+Russell's signal
+near here!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:17>
+Oh! I'm detecting
+Russell's signal
+near here!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:18>
+Oh! I'm detecting
+Russell's signal
+signal nearby!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:19>
+Hold on a sec. I'm
+detecting Russell's
+signal near here!
+<SCRIPT_ID_END:>
+<FILE_END:>

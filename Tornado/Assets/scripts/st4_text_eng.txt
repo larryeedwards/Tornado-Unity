@@ -1,0 +1,151 @@
+<SCRIPT_ID:0>
+Find Paro within
+5 minutes!
+Good luck, Toki!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Find Paro within
+5 minutes!
+Good luck, Gina!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Find Paro within
+5 minutes!
+Good luck, Deva!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Hm? Something is
+approaching us at
+an incredible speed!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+That's the hero
+who protects Earth!
+  
+He's come to help us!
+I'm sure of it!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:6>
+A-Are you the ones
+who put Earth in this
+dangerous situation?!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+No! We're a group
+of cosmic cleaners.
+You've got it all wrong.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:6>
+Enough excuses!
+Prepare for battle,
+evildoers!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+Hm? Something is
+approaching us at
+an incredible speed!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+That's the hero
+who protects Earth!
+  
+He's come to help us!
+I just know it!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:6>
+A-Are you the ones
+who put Earth in this
+dangerous situation?!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+No! We're a group
+of cosmic cleaners.
+You must be mistaken!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:6>
+Enough excuses!
+Prepare for battle,
+evildoers!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Hm? Something is
+approaching us at
+an incredible speed!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+That's the hero
+who protects Earth!
+He's come to help us!
+I'm sure of it!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:6>
+A-Are you the ones
+who put Earth in this
+dangerous situation?!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+No! We're a group
+of cosmic cleaners.
+You've got it all wrong.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:6>
+Enough excuses!
+Prepare for battle,
+evildoers!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:18>
+That was Paro just
+now, wasn't it?
+You did it, Toki!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:19>
+That was Paro just
+now, wasn't it?
+Amazing, Gina!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:20>
+That was Paro just
+now, wasn't it?
+You did it, Deva!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:21>
+Hey, I'm
+detecting Paro's
+signal nearby!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:22>
+Hold on a sec. I'm
+detecting Paro's
+signal nearby!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:23>
+Hey, I'm
+detecting Paro's
+signal nearby!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+We beat the hero!
+Do you think he's
+hurt?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+I'm sure he's fine!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+We beat the hero!
+Is he OK?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+No harm done,
+I think.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+We beat the hero!
+Do you think he's
+hurt?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+No harm done,
+I think.
+<SCRIPT_ID_END:>
+<FILE_END:>

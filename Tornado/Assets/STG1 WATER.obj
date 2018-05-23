@@ -1,0 +1,18 @@
+# Created by MKDS Course Modifier
+mtllib STG1 WATER.mtl
+g T01water
+usemtl Material__27
+v 819 -35 719
+v 819 -35 -719
+v -819 -35 719
+v -819 -35 -719
+vn 0 0.9980469 0
+vn 0 0.9980469 0
+vn 0 0.9980469 0
+vn 0 0.9980469 0
+vt 32 -26.30469
+vt 32 -1.695313
+vt 0 -26.30469
+vt 0 -1.695313
+f 1/1/1 2/2/2 3/3/3
+f 2/2/2 4/4/4 3/3/3

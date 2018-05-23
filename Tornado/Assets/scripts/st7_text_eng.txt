@@ -1,0 +1,171 @@
+<SCRIPT_ID:0>
+Find the spaceship
+within 6 minutes!
+Good luck, Toki!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Find the spaceship
+within 6 minutes!
+Good luck, Gina!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Find the spaceship
+within 6 minutes!
+Good luck, Deva!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Find the spaceship
+within 6 minutes!
+Good luck, Paro!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+Find the spaceship
+within 6 minutes!
+Good luck, Russell!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Wait a minute!
+Is that Ganzilla?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+They have monsters
+like that on Earth?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Toki, at this rate, the
+spaceship's in danger too.
+  
+Let's search for the ship
+without getting attacked!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+Wait, what's that?!
+It's Ganzilla!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+They have monsters
+like that on Earth?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+Gina, at this rate, the
+spaceship's in danger too.
+  
+Let's search for the ship
+while avoiding Ganzilla!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+Ha ha!
+What a cute little
+guy!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+That's Ganzilla. It's a
+monster. The spaceship
+is in danger too.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+Deva, at this rate, the
+spaceship's in danger too.
+  
+Let's search for the ship
+while avoiding Ganzilla!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+That's Ganzilla.
+I read about him.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+Cute. They have monsters
+like that on Earth?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+At this rate, the
+spaceship's in danger too.
+  
+Let's search for the ship
+while avoiding Ganzilla!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+A spaceship!
+Hey. That's Ganzilla.
+I read about him.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+Ganzilla? Earth has
+monsters like that?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+At this rate, the
+spaceship's in danger too.
+  
+Let's search for the ship
+while avoiding Ganzilla.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:20>
+Whew, that was close.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:21>
+That was a close
+one!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:22>
+Ha ha ha!
+Is everyone OK?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:23>
+That was close!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:24>
+That was close!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:25>
+The spaceship!
+You did it, Toki!
+Now we can go home!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:26>
+The spaceship!
+You did it, Gina!
+Now we can go home!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:27>
+Ha ha! The spaceship!
+Great job, Deva!
+Now we can go home!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:28>
+Fantastic, Paro!
+You found the spaceship!
+Now we can go home!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:29>
+Amazing, Russell!
+You found the spaceship!
+Now we can go home!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:30>
+Oh! I'm detecting
+the spaceship's
+signal nearby!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:31>
+Oh! I'm detecting
+the spaceship's
+signal nearby!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:32>
+Hey, I'm detecting
+the spaceship's
+signal nearby!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:33>
+Hold on a sec. I'm
+detecting the spaceship's
+signal nearby!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:34>
+Hold on a sec. I'm
+detecting the spaceship's
+signal nearby!
+<SCRIPT_ID_END:>
+<FILE_END:>

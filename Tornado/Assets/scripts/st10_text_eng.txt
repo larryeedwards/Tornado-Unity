@@ -1,0 +1,182 @@
+<SCRIPT_ID:0>
+Fight off Prince
+within 5 minutes!
+Good luck, Toki!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Fight off Prince
+within 5 minutes!
+Good luck, Gina!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Fight off Prince
+within 5 minutes!
+Good luck, Deva!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Fight off Prince
+within 5 minutes!
+Good luck, miss!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+Fight off Prince
+within 5 minutes!
+Good luck, Russell!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Fight off Prince
+within 5 minutes!
+OK, Kuro?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:6>
+Prepare yourself,
+space villain!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+J-Just a minute!
+It's all a mistake!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:6>
+Prepare yourself,
+space villain!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Hey! Listen to me!
+This is a mistake!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:6>
+Prepare yourself,
+space villain!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+This hero gets
+nuttier by the minute.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:6>
+Prepare yourself,
+space villain!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Hey! Who are you
+calling a villain?!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:6>
+Prepare yourself,
+space villain!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+Hey, a flying human.
+Oh, and what's this
+guy talking about?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:6>
+Prepare yourself,
+space villain!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Is it a bird? A plane?
+What is this guy?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:7>
+You've transported my
+precious collection!
+I'll have my revenge
+for this!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+You should be ashamed
+of what you've done!
+Prepare yourself!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:7>
+You've transported my
+precious collection!
+I'll have my revenge
+for this!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+You should be ashamed
+of what you've done!
+Prepare yourself!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:7>
+You've transported my
+precious collection!
+I'll have my revenge
+for this!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+You've got it all wrong!
+You're the evil one
+here!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:7>
+You've transported my
+precious collection!
+I'll have my revenge
+for this!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Hmph! When I think
+of how much trouble
+you caused us...!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:7>
+You've transported my
+precious collection!
+I'll have my revenge
+for this!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+Ha ha ha!
+I'd like to see you try!
+Give it your best shot!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:7>
+You've transported my
+precious collection!
+I'll have my revenge
+for this!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+What is this guy's
+problem?! Get ready
+for a bashing!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:7>
+Eeek!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+Learned your lesson?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:7>
+Eeek!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Take that!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:7>
+Eeek!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+I win!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:7>
+Eeek!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Serves you right.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:7>
+Eeek!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+Ha ha ha! Nice try!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:7>
+Eeek!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Hmph. Pathetic.
+<SCRIPT_ID_END:>
+<FILE_END:>

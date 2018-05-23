@@ -1,0 +1,55 @@
+<SCRIPT_ID:0>
+Clean up at least
+60% of the area
+within 6 minutes.
+Good luck, Toki!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Clean up at least
+60% of the area
+within 6 minutes.
+Good luck, Gina!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Clean up at least
+60% of the area
+within 6 minutes.
+Good luck, Deva!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Clean up at least
+60% of the area
+within 6 minutes.
+Good luck, Deva!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:4>
+Clean up at least
+60% of the area
+within 6 minutes.
+Good luck, Deva!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Clean up at least
+60% of the area
+within 6 minutes.
+Good luck, Paro!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:6>
+Clean up at least
+60% of the area
+within 6 minutes.
+Well, good luck.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:7>
+Clean up at least
+60% of the area
+within 6 minutes.
+Good luck, Russell!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:8>
+Clean up at least
+60% of the area
+within 6 minutes.
+Well, good luck.
+<SCRIPT_ID_END:>
+<FILE_END:>

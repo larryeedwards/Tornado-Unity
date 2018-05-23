@@ -1,0 +1,250 @@
+<SCRIPT_ID:0>
+The Tornado Machines
+will only work for
+3 minutes in this cold!
+Hurry up and find Russell!
+Good luck, Toki!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+The Tornado Machines
+will only work for
+3 minutes in this cold!
+Hurry up and find Russell!
+Good luck, Gina!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+The Tornado Machines
+will only work for
+3 minutes in this cold!
+So you'd better hurry
+up and start looking
+for Russell.
+Good luck, Deva!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+The Tornado Machines
+will only work for
+3 minutes in this cold!
+Hurry up and find Russell!
+Good luck, Paro!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+A powerful tornado is
+approaching us!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+Huh? A tornado?
+Maybe it's Russell!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+A powerful tornado is
+heading our way!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+A tornado?
+Maybe it's Russell!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+A powerful tornado is
+approaching us!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Hm? A tornado?
+Maybe it's Russell!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+A powerful tornado is
+approaching us!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Hm? A tornado?
+Maybe it's Russell!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+Watch out! Ahh!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Heh heh...
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Kuro!
+That was you?
+But how did you
+get here?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Oh, Gina my princess!
+It's been so long!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+I don't have time to
+talk to you right now!
+Can't this wait?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+But my dear, it's
+been an eternity since
+I saw you!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+Gina!
+Don't waste time on him!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+What's that?
+Who's this child?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+Child?! Who do you
+think you are?!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Watch out!! Ahhh!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Heh heh...
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Kuro!
+That was you?
+But how did you
+get here?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Oh, Gina my princess!
+It's been so long!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+I don't have time to
+talk to you right now!
+Can't this wait?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+But my dear, it's
+been an eternity
+since I saw you!
+I want to talk
+with you, my love!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+I told you,
+I'm busy!
+Don't bother me!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Watch out!! Ahhh!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Heh heh...
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Kuro!
+That was you?
+But how did you
+get here?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Oh, Gina my princess!
+It's been so long!
+  
+Hm? Who is this?
+A servant perhaps?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+I don't have time to
+talk to you right now!
+Can't this wait?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+A servant?!
+I can't just let that
+kind of comment go.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+This has nothing to
+do with you, sonny.
+Just be quiet!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Sonny?!
+I can't let THAT kind
+of comment go either.
+Now I'm mad!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Watch out!! Ahhh!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Heh heh...
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+So that unidentified
+tornado was you,
+huh?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Well now.
+If it isn't one of
+
+Gina's little helpers.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Little helper?!
+Why you...!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Calm down will you?
+I have to talk to
+Gina about something.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+How selfish can you get?
+I'll teach you not
+to mess with me!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Not bad for a kid!
+I'll get you next time!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+Running away, eh?
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+That was cool, Toki!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+An impressive showing,
+Gina. Today I must
+bid you farewell, but
+I won't lose next time!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:1>
+Hmph!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:0>
+That was cool, Gina!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Not bad for a kid!
+I won't forget this
+next time we meet!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Heh. Just try it.
+I'll beat you again.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Amazing!
+Great job, Deva!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:5>
+Not bad, for a girl.
+I'll get you next time!
+<SCRIPT_ID_END:>
+<SCRIPT_ID:3>
+Heh. Not likely.
+<SCRIPT_ID_END:>
+<SCRIPT_ID:2>
+Impressive, Paro.
+<SCRIPT_ID_END:>
+<FILE_END:>
